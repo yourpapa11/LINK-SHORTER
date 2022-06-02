@@ -1,4 +1,4 @@
-# URLSHORTX-bot
+# Vkshort-bot
 Make short link by using [Vkshorts](https://vkshort.in) API key. Made by @ITS_NOT_ROMEO. Give a star 🌟 and fork 🍴 it.
 
 ### New Features!!
@@ -27,15 +27,3 @@ Make short link by using [Vkshorts](https://vkshort.in) API key. Made by @ITS_NO
 * Bot will autodetect and send you the shortened url.
 
 <a href="https://github.com/yourpapa11/LINK-SHORTER/screenshots/"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a>
-
-### Credits
-
-* <a href="https://github.com/delivrance">Dan</a> for Pyrogram
-* <a href="https://github.com/yourpapa11/LINK-SHORTER">DEVANSH</a> for URLSHORTX-bot.
-* <a href ="https://github.com/yourpapa11/droplink-convertor"> DEVANSH  </a> FOR DROPLINK BOT 
-
-### BOT LIST 
-
-* <a href ="https://github.com/yourpapa11/droplink-convertor">DROPLINK BOT </a>
-* <a href="https://github.com/yourpapa11/LINK-SHORTER">URLSHORTX BOT</a> 
-* GP LINKS BOT SOON 

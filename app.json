@@ -1,6 +1,6 @@
 {
     "name": "Vkshorts Bot",
-    "description": "Make short link by using URLSHORTX API key",
+    "description": "Make short link by using Vkshort API key",
     "keywords": [
         "telegram",
         "Droplink"

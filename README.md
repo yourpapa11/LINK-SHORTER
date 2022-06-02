@@ -1,5 +1,5 @@
 # Vkshort-bot
-Make short link by using [Vkshorts](https://vkshort.in) API key. Made by @ITS_NOT_ROMEO. Give a star 🌟 and fork 🍴 it.
+Make short link by using [Vkshorts](https://vkshort.in) API key. . Give a star 🌟 and fork 🍴 it.
 
 ### New Features!!
 
@@ -16,7 +16,7 @@ Make short link by using [Vkshorts](https://vkshort.in) API key. Made by @ITS_NO
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://t.me/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_HASH`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
-* `API_KEY`: Create [Vkshort](https://Vkshort.in) account then get this value from [URLSHORTX API](https://vkshort.in/member/tools/api).
+* `API_KEY`: Create [Vkshort](https://Vkshort.in) account then get this value from [Vkshort API](https://vkshort.in/member/tools/api).
 
 ### How to Use?
 
